@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Lıve Url :  gokburak-languages-cards.netlify.app
+### Lıve Url : https://gokburak-languages-cards.netlify.app/
 
 ## Available Scripts
 
